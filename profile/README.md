@@ -1,5 +1,6 @@
-## Model Driven Development - Template Based Code Generation    
-## Close the loop of your documentation
+**Model Driven Development - Template Based Code Generation**    
+**Close the loop of your documentation**
+--------------------------------------------------------------
 
 **locod.io** is a web application for data modeling and code generation. With its template based approach, 
 locod.io can generate code for any kind of programming languages.
